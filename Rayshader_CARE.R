@@ -15,3 +15,5 @@ elmat = raster_to_matrix(localtif)
 elmat %>%
   sphere_shade(texture = "desert") %>%
   plot_map()
+
+#test
